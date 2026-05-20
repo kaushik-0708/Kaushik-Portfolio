@@ -27,7 +27,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 Feel free to connect with me through the contact form in the portfolio.
 
 ## 🌐 Live Portfolio
-(Add your Vercel/Netlify link here after deployment)
+(https://kaushik-portfolio-07.vercel.app/)
 
 ---
 Made by Kaushik Mane⚡
