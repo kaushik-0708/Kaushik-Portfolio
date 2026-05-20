@@ -1,4 +1,4 @@
-# Kaushik Portfolio 🚀
+# KAUSHIK PORTFOLIO🚀
 
 This is my personal portfolio website showcasing my projects, skills, and experience as an AI & Data Science Engineer.
 
@@ -30,4 +30,4 @@ Feel free to connect with me through the contact form in the portfolio.
 (Add your Vercel/Netlify link here after deployment)
 
 ---
-Made with ❤️ by Kaushik Mane
+Made by Kaushik Mane⚡
